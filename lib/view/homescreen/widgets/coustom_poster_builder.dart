@@ -6,7 +6,7 @@ import 'package:flutter_application_netflix_clone/utils/color_constants.dart';
 
 class CustomPosterBuilder extends StatelessWidget {
   const CustomPosterBuilder({
-    this.isInfoVisible = false,
+    this.isInfoVisible = true,
     this.isCircle = false,
     super.key,
     this.height = 177,
